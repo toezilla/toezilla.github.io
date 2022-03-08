@@ -28,6 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "http://toezilla.github.io"
 github_username: toezilla
 highlighter: rouge
+encoding: utf-8
 svg:
   optimize: true
 # Build settings
